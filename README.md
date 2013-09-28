@@ -1,2 +1,2 @@
-yeoman-angluar-haml-seed
-========================
+ChattingCatAdmin
+================
