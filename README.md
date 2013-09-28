@@ -1,0 +1,2 @@
+yeoman-angluar-haml-seed
+========================
